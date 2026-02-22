@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="nav_grid_map" type="nav_map_node" name="my_grid_map_node" output="screen">
+        </node>
+
+    </launch>
